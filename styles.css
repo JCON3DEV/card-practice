@@ -16,6 +16,12 @@ body {
   margin-right: 2px;
 }
 
+.card-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 card-img-top {
   border-radius: 50%;
 }
